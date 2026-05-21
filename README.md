@@ -21,4 +21,6 @@ Cowrie Honeypot
 ## Kết quả
 - Triển khai thành công môi trường Honeypot trên máy ảo
 - Ghi nhận các lần đăng nhập SSH mô phỏng
+![Log ghi nhận hacker SSH thành công vào Cowrie](images/cowrie-log(1).png)
 - Thu thập log phục vụ phân tích hành vi tấn công
+![Log ghi nhận lệnh tấn công](images/cowrie-log(2).png)
