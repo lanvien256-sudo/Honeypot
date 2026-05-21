@@ -18,6 +18,7 @@ Attacker (Kali Linux)
 pfSense  
 ↓  
 Cowrie Honeypot  
+![Mô hình logic của hệ thống](images/topology.png)
 ## Kết quả
 - Triển khai thành công môi trường Honeypot trên máy ảo
 - Ghi nhận các lần đăng nhập SSH mô phỏng
